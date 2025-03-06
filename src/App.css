@@ -1,0 +1,112 @@
+/* Definições gerais */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #e9d7f1; /* Fundo claro com tom lilás suave */
+  color: #3b0a45; /* Texto escuro para contraste */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.app-container {
+  background-color: #f5e1f3; /* Fundo claro com leve tom lilás */
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  padding: 30px;
+  width: 80%;
+  max-width: 800px;
+}
+
+h1.title {
+  font-size: 2.5rem;
+  color: #5e1b6e; /* Título em roxo mais escuro */
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #9b42c9; /* Roxo mais claro */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #6a2c91; /* Roxo mais suave no hover */
+}
+
+button:focus {
+  outline: none;
+}
+
+.text-container {
+  background-color: #ffffff; /* Fundo branco para contraste */
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Leve sombra para dar destaque */
+}
+
+.text-container h2 {
+  font-size: 1.8rem;
+  color: #5e1b6e; /* Título claro e escuro */
+  margin-bottom: 10px;
+}
+
+.text-container h3 {
+  font-size: 1.2rem;
+  color: #d4a3d1; /* Subtítulo lilás suave */
+  margin-bottom: 15px;
+}
+
+.text-container .content p {
+  font-size: 1rem;
+  color: #3b0a45; /* Texto escuro */
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.footer {
+  font-size: 0.9rem;
+  color: #b0a5b3; /* Texto do rodapé em cinza claro */
+  margin-top: 20px;
+}
+
+footer a {
+  color: #d4a3d1; /* Link com tom lilás */
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.back-button {
+  background-color: #9b42c9; /* Roxo mais claro para o botão voltar */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+}
+
+.back-button:hover {
+  background-color: #6a2c91; /* Roxo mais suave no hover */
+}
+
+footer {
+  margin-top: 30px;
+  text-align: center;
+}
