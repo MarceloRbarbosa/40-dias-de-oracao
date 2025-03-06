@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/40-dias-de-oracao/static/css/main.bb5e90fa.css",
+    "main.js": "/40-dias-de-oracao/static/js/main.afbaac69.js",
+    "static/js/453.c1de11f4.chunk.js": "/40-dias-de-oracao/static/js/453.c1de11f4.chunk.js",
+    "index.html": "/40-dias-de-oracao/index.html",
+    "main.bb5e90fa.css.map": "/40-dias-de-oracao/static/css/main.bb5e90fa.css.map",
+    "main.afbaac69.js.map": "/40-dias-de-oracao/static/js/main.afbaac69.js.map",
+    "453.c1de11f4.chunk.js.map": "/40-dias-de-oracao/static/js/453.c1de11f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb5e90fa.css",
+    "static/js/main.afbaac69.js"
+  ]
+}
