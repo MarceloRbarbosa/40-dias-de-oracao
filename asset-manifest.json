@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/40-dias-de-oracao/static/css/main.bb5e90fa.css",
-    "main.js": "/40-dias-de-oracao/static/js/main.41ab892e.js",
+    "main.css": "/40-dias-de-oracao/static/css/main.f7d97e2d.css",
+    "main.js": "/40-dias-de-oracao/static/js/main.647d2923.js",
     "static/js/453.c1de11f4.chunk.js": "/40-dias-de-oracao/static/js/453.c1de11f4.chunk.js",
     "index.html": "/40-dias-de-oracao/index.html",
-    "main.bb5e90fa.css.map": "/40-dias-de-oracao/static/css/main.bb5e90fa.css.map",
-    "main.41ab892e.js.map": "/40-dias-de-oracao/static/js/main.41ab892e.js.map",
+    "main.f7d97e2d.css.map": "/40-dias-de-oracao/static/css/main.f7d97e2d.css.map",
+    "main.647d2923.js.map": "/40-dias-de-oracao/static/js/main.647d2923.js.map",
     "453.c1de11f4.chunk.js.map": "/40-dias-de-oracao/static/js/453.c1de11f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb5e90fa.css",
-    "static/js/main.41ab892e.js"
+    "static/css/main.f7d97e2d.css",
+    "static/js/main.647d2923.js"
   ]
 }
