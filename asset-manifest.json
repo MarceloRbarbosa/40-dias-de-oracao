@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/40-dias-de-oracao/static/css/main.f7d97e2d.css",
+    "main.css": "/40-dias-de-oracao/static/css/main.6d97d265.css",
     "main.js": "/40-dias-de-oracao/static/js/main.647d2923.js",
     "static/js/453.c1de11f4.chunk.js": "/40-dias-de-oracao/static/js/453.c1de11f4.chunk.js",
     "index.html": "/40-dias-de-oracao/index.html",
-    "main.f7d97e2d.css.map": "/40-dias-de-oracao/static/css/main.f7d97e2d.css.map",
+    "main.6d97d265.css.map": "/40-dias-de-oracao/static/css/main.6d97d265.css.map",
     "main.647d2923.js.map": "/40-dias-de-oracao/static/js/main.647d2923.js.map",
     "453.c1de11f4.chunk.js.map": "/40-dias-de-oracao/static/js/453.c1de11f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7d97e2d.css",
+    "static/css/main.6d97d265.css",
     "static/js/main.647d2923.js"
   ]
 }
