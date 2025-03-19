@@ -77,12 +77,12 @@ button:focus {
 
 .footer {
   font-size: 0.9rem;
-  color: #b0a5b3; /* Texto do rodapé em cinza claro */
+  color: #4f4e50; /* Texto do rodapé em cinza claro */
   margin-top: 20px;
 }
 
 footer a {
-  color: #d4a3d1; /* Link com tom lilás */
+  color: #ad5fa8; /* Link com tom lilás */
   text-decoration: none;
 }
 
