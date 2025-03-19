@@ -921,6 +921,7 @@ function App() {
       ) : (
         reflections[selectedDay] ? (
           <div className="text-container">
+          <button className="back-button" onClick={handleBackButton}>Voltar</button>
             <h2>{reflections[selectedDay].title}</h2>
             <h3>{reflections[selectedDay].subtitle}</h3>
             <div className="content">
