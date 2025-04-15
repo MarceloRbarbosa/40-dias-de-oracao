@@ -38,7 +38,7 @@ As meditações ainda estão incompletas
 Se quiser testar localmente:
 
 ```bash
-git clone https://github.com/seu-usuario/40-dias-de-oracao.git
+git clone https://github.com/MarceloRbarbosa/40-dias-de-oracao.git
 cd 40-dias-de-oracao
 npm install
 npm run dev
