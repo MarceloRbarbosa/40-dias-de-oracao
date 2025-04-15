@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# 🙏 40 Dias de Oração
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**40 Dias de Oração** é um estudo bíblico interativo desenvolvido em React, com JavaScript puro, para a Quaresma. O projeto oferece 40 meditações diárias, guiando o usuário através de reflexões e orações durante o período quaresmal. Cada dia traz um novo momento de introspecção e oração, alinhado com o significado e os ensinamentos da Quaresma.
 
-## Available Scripts
+📱 Acesse aqui: [https://bibliaparacatolicos.vercel.app/](https://bibliaparacatolicos.vercel.app/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 💡 Sobre o projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este projeto foi criado para ajudar os católicos a vivenciarem os 40 dias da Quaresma com mais reflexão e oração, proporcionando uma experiência diária de meditação com versículos bíblicos e orações.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O usuário pode acessar cada meditação do dia, desde o primeiro até o último, com conteúdo fiel à tradição da Igreja Católica e relevante para cada jornada espiritual do período quaresmal.
 
-### `npm test`
+As meditações ainda estão incompletas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🔧 Tecnologias usadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- JavaScript
+- HTML
+- CSS (Estilização simples para mobile)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Funcionalidades principais
 
-### `npm run eject`
+- **Meditação diária:** Cada dia da Quaresma oferece uma meditação específica.(INCOMPLETO)
+- **Reflexões e orações:** O projeto inclui versículos e orações para reflexão durante o dia.
+- **Acesso fácil e direto:** Interface simples e rápida para leitura diária.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠 Como rodar
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Se quiser testar localmente:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/seu-usuario/40-dias-de-oracao.git
+cd 40-dias-de-oracao
+npm install
+npm run dev
